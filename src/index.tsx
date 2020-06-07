@@ -142,7 +142,7 @@ const magic = {
   deceleration: 0.999,
   bouncyFactor: 1,
   velocityFactor: P(1, 0.8),
-  toss: 0.4,
+  toss: 0.6,
   coefForTranslatingVelocities: 5,
 }
 
